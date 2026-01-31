@@ -1,0 +1,7 @@
+{
+  "name": "DocuVoice AI",
+  "description": "Transform your large PDF documents into interactive conversations. Upload a file and talk to it using the Gemini Live API for real-time voice interactions or traditional text chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
